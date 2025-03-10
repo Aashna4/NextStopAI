@@ -93,8 +93,7 @@ This project is licensed under the **MIT License** – feel free to modify and u
 ## 📬 Contact  
 
 For questions, reach out via:  
-📧 Email: [your.email@example.com]  
-🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)  
+📧 Email: khater@usc.edu  
 
 ---
 
